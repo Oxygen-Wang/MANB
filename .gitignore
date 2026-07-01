@@ -1,0 +1,23 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+slprj/
+*.slxc
+*.mlappinstall
+*.mex*
+*.fig
+
+# Data and outputs
+*.mat
+*.csv
+*.eps
+*.png
+*.jpg
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
